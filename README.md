@@ -1,3 +1,3 @@
 # HexaOnline
 
-Personal experimentation with Unity engine.
+Our experimentation with Unity engine
